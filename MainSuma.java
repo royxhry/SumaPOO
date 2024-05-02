@@ -14,7 +14,7 @@ public class MainSuma {
         s1.sumar();
 
         int r = s1.getR();
-        System.out.println("El resultado de la suma es "+r);
+        System.out.println("El resultado de la suma es: "+r);
        System.out.println(s1.toString());
        
     }

@@ -1,5 +1,6 @@
 public class Suma{
     
+    
     private int a,b,r;
     public int getA() {
         return a;
